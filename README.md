@@ -3,7 +3,8 @@
 ```bash
 git clone
 cd app
-source menv/Scripts/activate
+python -m venv env
+source env/Scripts/activate
 pip install -r requirements.txt
 python main.py
 ```
