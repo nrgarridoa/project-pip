@@ -1,0 +1,1 @@
+Este es el readme de mi proyecto PIP del curso de Python en Platzi
