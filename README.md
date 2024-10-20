@@ -1,1 +1,9 @@
-Este es el readme de mi proyecto PIP del curso de Python en Platzi
+# App
+
+```bash
+git clone
+cd app
+source menv/Scripts/activate
+pip install -r requirements.txt
+python main.py
+```
